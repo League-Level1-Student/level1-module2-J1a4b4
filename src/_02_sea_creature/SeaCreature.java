@@ -24,7 +24,7 @@ public class SeaCreature {
 	}
 
 	public void eat() {
-		System.out.println(name + " is eating krabby patties");
+		System.out.println(name + " is eating Krabby patties");
 	}
 
 	public void laugh() {
